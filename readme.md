@@ -4,9 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=Richard382&label=Profile%20views&color=0e75b6&style=flat" alt="Richard382" />  
 
   [gmail]: mailto:bear.white3333@gmail.com
-  [telegram]: https://t.me/luckycstar   
+  [telegram]: https://t.me/luckycstar55   
      
-  Hi, I'm 🥇[VueDeveloperRu](https://t.me/luckycstar/)🥇, As a Senior Frontend Developer, with outstanding experience in various fields, such as web and mobile design.
+  Hi, I'm 🥇[VueDeveloperRu](https://t.me/luckycstar55/)🥇, As a Senior Frontend Developer, with outstanding experience in various fields, such as web and mobile design.
 
 My major skills are web and mobile application front-end development. I have good experience with Vue and Nuxt, React, Angular, Flutter, etc.
 
@@ -22,7 +22,7 @@ I had already built so many Websites with the mentioned skill.
   
 ### Connect with me:
 
-- 💬 Telegram : [@luckycstar](https://t.me/luckycstar)
+- 💬 Telegram : [@luckycstar55](https://t.me/luckycstar55)
 - 📧 Email : bear.white3333@gmail.com
 
 ### Languages and Tools:
